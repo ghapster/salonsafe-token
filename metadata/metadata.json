@@ -1,0 +1,14 @@
+{
+  "name": "ABC Nail Lounge - Proof-of-Airflow",
+  "description": "This NFT certifies that ABC Nail Lounge is an active participant in the SalonSafe Proof-of-Airflow program, verified for indoor air quality improvement.",
+  "image": "ipfs://bafybeihag5vjjhblwljoi6l6nh2dc3e6ae3zexebi3l74klbffa4hfgeq4/ABC_Nail_Lounge_Cert_Final.png",
+  "attributes": [
+    { "trait_type": "Location", "value": "Boston, MA" },
+    { "trait_type": "Tier", "value": "Standard" },
+    { "trait_type": "Issued", "value": "2025-03-24" },
+    { "trait_type": "Certificate ID", "value": "ABC-2025-001" },
+    { "trait_type": "Issued by", "value": "SalonSafe, LLC" },
+    { "trait_type": "Backed by", "value": "$SLN – The SalonSafe Token" }
+  ]
+}
+
